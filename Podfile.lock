@@ -1,0 +1,99 @@
+PODS:
+  - Alamofire (4.5.1)
+  - AlamofireImage (3.3.0):
+    - Alamofire (~> 4.5)
+  - AlamofireNetworkActivityIndicator (2.2.0):
+    - Alamofire (~> 4.5)
+  - AlamofireObjectMapper (5.0.0):
+    - Alamofire (~> 4.1)
+    - ObjectMapper (~> 3.0)
+  - CocoaLumberjack/Core (3.5.1)
+  - CocoaLumberjack/Swift (3.5.1):
+    - CocoaLumberjack/Core
+  - CodableAlamofire (1.1.0):
+    - Alamofire (~> 4.0)
+  - GBDeviceInfo (5.1.0):
+    - GBDeviceInfo/Core (= 5.1.0)
+  - GBDeviceInfo/Core (5.1.0)
+  - LoggerManager (1.0.4):
+    - CocoaLumberjack/Swift (= 3.5.1)
+  - NetworkManager (1.0.20):
+    - Alamofire (= 4.5.1)
+    - AlamofireImage (= 3.3.0)
+    - AlamofireNetworkActivityIndicator (= 2.2.0)
+    - CodableAlamofire (= 1.1.0)
+    - LoggerManager (~> 1.0.0)
+    - SwifterSwift (~> 4.0)
+    - SwiftyJSON (= 4.0.0)
+    - Utils (~> 1.0.0)
+  - NetworkManagerObjectMapper (1.0.3):
+    - Alamofire (= 4.5.1)
+    - AlamofireObjectMapper (= 5.0.0)
+    - NetworkManager (~> 1.0.0)
+    - ObjectMapper (= 3.3.0)
+    - Utils (~> 1.0.0)
+  - ObjectMapper (3.3.0)
+  - SwifterSwift (4.2.0):
+    - SwifterSwift/AppKit (= 4.2.0)
+    - SwifterSwift/CoreGraphics (= 4.2.0)
+    - SwifterSwift/CoreLocation (= 4.2.0)
+    - SwifterSwift/Foundation (= 4.2.0)
+    - SwifterSwift/MapKit (= 4.2.0)
+    - SwifterSwift/SwiftStdlib (= 4.2.0)
+    - SwifterSwift/UIKit (= 4.2.0)
+  - SwifterSwift/AppKit (4.2.0)
+  - SwifterSwift/CoreGraphics (4.2.0)
+  - SwifterSwift/CoreLocation (4.2.0)
+  - SwifterSwift/Foundation (4.2.0)
+  - SwifterSwift/MapKit (4.2.0)
+  - SwifterSwift/SwiftStdlib (4.2.0)
+  - SwifterSwift/UIKit (4.2.0)
+  - SwiftyJSON (4.0.0)
+  - Utils (1.0.14):
+    - GBDeviceInfo (= 5.1.0)
+    - SwifterSwift (~> 4.0)
+
+DEPENDENCIES:
+  - LoggerManager (= 1.0.4)
+  - NetworkManager (= 1.0.20)
+  - NetworkManagerObjectMapper (= 1.0.3)
+  - SwifterSwift (= 4.2.0)
+  - Utils (= 1.0.14)
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - Alamofire
+    - AlamofireImage
+    - AlamofireNetworkActivityIndicator
+    - AlamofireObjectMapper
+    - CocoaLumberjack
+    - CodableAlamofire
+    - GBDeviceInfo
+    - ObjectMapper
+    - SwifterSwift
+    - SwiftyJSON
+  https://github.com/daniele99999999/cocoapodsspecsinternal.git:
+    - LoggerManager
+    - NetworkManager
+    - NetworkManagerObjectMapper
+    - Utils
+
+SPEC CHECKSUMS:
+  Alamofire: 2d95912bf4c34f164fdfc335872e8c312acaea4a
+  AlamofireImage: 2e784dc5d00f04903a52c1d169181469c805c3df
+  AlamofireNetworkActivityIndicator: 81e1630e7cfed22a4e4e82a174c59e651dc4f8ca
+  AlamofireObjectMapper: 5fafc816351cbbc0d486611aaeba7461c0cbad49
+  CocoaLumberjack: 2101f8a5508197a305e737d16c5c2e9e2157628c
+  CodableAlamofire: e2d2edcec7cf413f7862c30c8fa98eded27a83f9
+  GBDeviceInfo: 8e43440ae1264d9a79beea81800363cf192ce322
+  LoggerManager: 48c11458f70d648ed8a894255c7ee214aa717b50
+  NetworkManager: d8091b664c45acb7d2b8cae5981cd2ed006bc5e0
+  NetworkManagerObjectMapper: 7021acf17444f122d4dc2026f8435fb020ed03f9
+  ObjectMapper: b612bf8c8e99c4dc0bb6013a51f7c27966ed5da9
+  SwifterSwift: 1d101dcfb0c3123226900f3b4d220d57fb60d546
+  SwiftyJSON: 070dabdcb1beb81b247c65ffa3a79dbbfb3b48aa
+  Utils: 8664079196dd0085a5e3630570e47395c5062a8c
+
+PODFILE CHECKSUM: f8040cbfa00575de47c1a5413e313459007f1dc2
+
+COCOAPODS: 1.5.2
