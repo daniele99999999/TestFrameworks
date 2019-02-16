@@ -1,0 +1,24 @@
+/* 
+  Localizable.strings
+  TestFrameworks
+
+  Created by Daniele Salvioni on 16/02/19.
+  Copyright © 2019 Daniele Salvioni. All rights reserved.
+*/
+
+// ALERT
+"info.title"                                    = "Info";
+"info.button"                                   = "Ok";
+"info.cancel"                                   = "Cancel";
+
+"attention.title"                               = "Attention";
+"attention.button"                              = "Ok";
+"attention.cancel"                              = "Cancel";
+
+"error.title"                                   = "Error";
+"error.button"                                  = "Ok";
+"error.cancel"                                  = "Cancel";
+
+
+// ACTIVITY
+"activity.title.message"                        = "Loading...";
